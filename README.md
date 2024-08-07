@@ -1,6 +1,6 @@
 # News Topic Analyzer
 
-![News Topic Analyzer Logo](path/to/logo.png)
+![News Topic Analyzer Logo](assets/logo.png)
 
 ## Table of Contents
 - [Description](#description)
